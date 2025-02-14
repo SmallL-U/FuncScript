@@ -2,6 +2,8 @@
 
 This project is a simple framework that provides some common utilities to facilitate shell script development. It includes a main execution script along with utility functions for tasks such as logging and file operations.
 
+[README](README.md) | [中文文档](README_zh.md)
+
 ## File Structure
 
 - **fire.sh**:  
